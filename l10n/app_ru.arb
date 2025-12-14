@@ -1,0 +1,21 @@
+{
+  "@@locale": "ru",
+  "appTitle": "Excel AI Assistant",
+  "madeBy": "Made by Muhammadullo Qodirov",
+  "homeTitle": "Анализатор",
+  "pickFile": "Выбрать файл",
+  "selectedFile": "Выбранный файл",
+  "analyze": "Анализировать",
+  "result": "Результат",
+  "noResult": "Пока нет результата.",
+  "backendWaking": "Подключение к сервису…",
+  "backendDown": "Сервис недоступен. Проверьте интернет и попробуйте снова.",
+  "language": "Язык",
+  "theme": "Тема",
+  "system": "Системная",
+  "light": "Светлая",
+  "dark": "Тёмная",
+  "settings": "Настройки",
+  "retry": "Повторить",
+  "fileTypesHint": "Поддержка: .xlsx .xls .csv .tsv"
+}

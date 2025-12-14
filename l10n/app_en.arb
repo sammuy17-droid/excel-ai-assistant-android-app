@@ -1,0 +1,21 @@
+{
+  "@@locale": "en",
+  "appTitle": "Excel AI Assistant",
+  "madeBy": "Made by Muhammadullo Qodirov",
+  "homeTitle": "Analyzer",
+  "pickFile": "Pick a file",
+  "selectedFile": "Selected file",
+  "analyze": "Analyze",
+  "result": "Result",
+  "noResult": "No result yet.",
+  "backendWaking": "Connecting to service…",
+  "backendDown": "Service is not reachable. Please check internet and try again.",
+  "language": "Language",
+  "theme": "Theme",
+  "system": "System",
+  "light": "Light",
+  "dark": "Dark",
+  "settings": "Settings",
+  "retry": "Retry",
+  "fileTypesHint": "Supported: .xlsx .xls .csv .tsv"
+}

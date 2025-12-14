@@ -1,0 +1,21 @@
+{
+  "@@locale": "uz",
+  "appTitle": "Excel AI Assistant",
+  "madeBy": "Made by Muhammadullo Qodirov",
+  "homeTitle": "Tahlilchi",
+  "pickFile": "Fayl tanlash",
+  "selectedFile": "Tanlangan fayl",
+  "analyze": "Tahlil qilish",
+  "result": "Natija",
+  "noResult": "Hali natija yo‘q.",
+  "backendWaking": "Xizmatga ulanmoqda…",
+  "backendDown": "Xizmatga ulanmadi. Internetni tekshirib qayta urinib ko‘ring.",
+  "language": "Til",
+  "theme": "Rejim",
+  "system": "Tizim",
+  "light": "Kun",
+  "dark": "Tun",
+  "settings": "Sozlamalar",
+  "retry": "Qayta urinish",
+  "fileTypesHint": "Qo‘llab-quvvatlanadi: .xlsx .xls .csv .tsv"
+}
